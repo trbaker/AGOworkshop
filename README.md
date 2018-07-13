@@ -3,7 +3,7 @@ Python/Jupyter script to create and delete bulk, generic accounts for an AGO wor
 
 https://github.com/trbaker/AGOworkshop
 
-v 2.0 - July 2018 (post0UC)
+v 2.0 - July 2018 (post-UC)
  - adds support for licensing assignment and revocation.
  
  
